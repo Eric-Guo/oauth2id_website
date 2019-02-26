@@ -1,6 +1,6 @@
 ---
-title: Other GatsbyJS starters
-menuTitle: Starters
+title: Oauth2 ID 的功能
+menuTitle: 功能
 ---
 
 **HeroBlog** is not my first [GatsbyJS](https://www.gatsbyjs.org/) starter.

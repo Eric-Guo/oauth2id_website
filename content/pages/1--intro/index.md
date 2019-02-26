@@ -1,5 +1,6 @@
 ---
-title: 关于Oauth2 ID
+title: 介绍 Oauth2 ID
+menuTitle: 介绍
 ---
 
 This is a demo site of the [HeroBlog](https://github.com/greglobinski/gatsby-starter-hero-blog), a [GatsbyJS](https://www.gatsbyjs.org/) starter.
