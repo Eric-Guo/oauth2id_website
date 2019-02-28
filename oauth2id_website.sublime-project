@@ -2,7 +2,7 @@
     "folders": [
         {
             "path": ".",
-            "folder_exclude_patterns": [".cache","public"],
+            "folder_exclude_patterns": [".cache","public","static/icons"],
             "file_exclude_patterns": ["CODE_OF_CONDUCT.md"]
         }
     ],
