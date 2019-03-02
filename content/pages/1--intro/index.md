@@ -5,6 +5,8 @@ menuTitle: 介绍
 
 This is a demo site of the [HeroBlog](https://github.com/greglobinski/gatsby-starter-hero-blog), a [GatsbyJS](https://www.gatsbyjs.org/) starter.
 
+Oauth2 ID 是一个软件套件，实现了标准的 Oauth2 协议，提供了开源的单点登录解决方案。
+
 ### Features:
 
 - Easy editable content in **Markdown** files (posts, pages and parts)
